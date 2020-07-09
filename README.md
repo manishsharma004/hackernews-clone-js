@@ -7,6 +7,8 @@ This project is built on top following technologies/libraries:
 3. [Redux Persist](https://github.com/rt2zz/redux-persist)
 4. [Highcharts](https://www.highcharts.com/)
 5. [Sass](https://sass-lang.com/)
+6. [React Router V4](https://reactrouter.com/)
+7. Apis used for project is available at: [HN Search API](https://hn.algolia.com/api)
 
 ## Available Scripts
 
