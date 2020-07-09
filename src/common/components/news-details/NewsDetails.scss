@@ -1,0 +1,12 @@
+.news-details {
+    text-align: left;
+    word-break: break-word;
+
+    .website, .author, .creation-time, .hide-button {
+        margin-left: 2pt;
+        margin-right: 2pt;
+    }
+    .hide-button {
+        color: #828282;
+    }
+}

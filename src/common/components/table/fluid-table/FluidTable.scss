@@ -1,0 +1,35 @@
+.table {
+    display: table;
+
+    &.full-width {
+        width: 100%;
+    }
+
+    .table-head {
+        background-color: #fe6706;
+        // background-color: #ae5706;
+
+        .table-header-column {
+            color: whitesmoke;
+            font-weight: bolder;
+        }
+    }
+
+    .table-row {
+        display: table-row;
+
+        &.white-bg {
+            background-color: #ffffff;
+        }
+        &.dark-bg {
+            background-color: #e5e7de;
+        }
+
+        .table-column {
+            display: table-cell;
+            text-align: center;
+            margin: 5px 5px;
+            vertical-align: middle;
+        }
+    }
+}
