@@ -1,4 +1,4 @@
-# Hackernews Clone
+# Hackernews Clone [![CircleCI](https://circleci.com/gh/manishsharma004/hackernews-clone-js.svg?style=svg)](https://app.circleci.com/pipelines/github/manishsharma004/hackernews-clone-js) ![Firebase Deploy](https://github.com/manishsharma004/hackernews-clone-js/workflows/Firebase%20Deploy/badge.svg)
 
 This project is built on top following technologies/libraries:
 
